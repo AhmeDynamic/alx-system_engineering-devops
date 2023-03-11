@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rd a+x ./
+chmod -rd u+x,g+x,o+x ./
