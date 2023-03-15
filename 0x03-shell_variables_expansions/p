@@ -1,4 +1,4 @@
-chmod 755  *
+chmod u+x  *
 git add * 
 git commit -m "i/o"
 git push
